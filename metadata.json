@@ -1,0 +1,8 @@
+{
+  "name": "Remix Methodist University - Chemistry \u0026 Physical Science",
+  "description": "Interactive learning modules, quizzes, and simulations for chemistry, physics, and physical sciences at Methodist University.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
